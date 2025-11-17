@@ -1,0 +1,5 @@
+{
+  "name": "MERA Entanglement Geometry",
+  "description": "An interactive visualization of the Ryu-Takayanagi formula using a MERA (Multi-scale Entanglement Renormalization Ansatz) tensor network. Explore how entanglement sculpts geometry by selecting boundary regions and observing the corresponding minimal cut ('holographic screen') in the bulk.",
+  "requestFramePermissions": []
+}
